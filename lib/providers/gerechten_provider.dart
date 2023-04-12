@@ -16,19 +16,16 @@ class GerechtenProvider with ChangeNotifier {
           '6. Doe slagroom, knoflook, Italiaanse kruiden en zout en peper in de pan met de kip en laat zachtjes pruttelen totdat is ingedikt. Heb je toevallig nog wat kruidenroomkaas in de koelkast? Doe gerust een eetlepel erbij in de pan.\n \n \n'
           '7. Als de saus wat is ingedikt voeg je de orzo toe, even mengen en serveer met geraspte parmezaanse kaas.\n',
       bereidingstijd: '30 minuten',
-      
-      ingredienten:     
-    '200 gr orzo. \n \n'
-    '300 gr kippendijfilet \n \n'
-    '1 prei \n \n'
-    '1 ui \n \n'
-    '2 tenen knoflook \n \n'
-    '1,5 tl kipkruiden \n \n'
-    '150 ml slagroom \n \n'
-    '2 tl Italiaanse kruiden \n \n'
-    'peper en zout \n \n'
-    'evt. geraspte parmezaanse kaas en rucola \n \n',
-
+      ingredienten: '200 gr orzo. \n \n'
+          '300 gr kippendijfilet \n \n'
+          '1 prei \n \n'
+          '1 ui \n \n'
+          '2 tenen knoflook \n \n'
+          '1,5 tl kipkruiden \n \n'
+          '150 ml slagroom \n \n'
+          '2 tl Italiaanse kruiden \n \n'
+          'peper en zout \n \n'
+          'evt. geraspte parmezaanse kaas en rucola \n \n',
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2023/02/588A2807.jpg.webp',
     ),
@@ -43,17 +40,14 @@ class GerechtenProvider with ChangeNotifier {
           '5. Giet de pasta af en voeg toe aan de pestoroomsaus met kip en schep dit goed om zodat alle pasta voorzien is van een laagje pesto saus. \n \n'
           '6. Serveer de pasta (naar smaak) met geroosterde pijnboompitten, cherrytomaatjes en rucola. Eet smakelijk!',
       bereidingstijd: '10 minuten',
-
-      ingredienten: 
-      '250 gram penne (of een andere pastasoort naar keuze) \n \n'
-      '1 ui (gesnipperd) \n \n'
-      '2 tenen knoflook (uitgeperst) \n \n'
-    '300 gram kipfilet (in blokjes) \n \n'
-    '2 eetlepels zelfgemaakte pesto \n \n'
-    '100 ml kookroom \n \n'
-    'olijfolie, peper en zout \n \n'
-    'Om te serveren: geroosterde pijnboompitten, cherrytomaten en rucola \n \n',
-
+      ingredienten: '250 gram penne (of een andere pastasoort naar keuze) \n \n'
+          '1 ui (gesnipperd) \n \n'
+          '2 tenen knoflook (uitgeperst) \n \n'
+          '300 gram kipfilet (in blokjes) \n \n'
+          '2 eetlepels zelfgemaakte pesto \n \n'
+          '100 ml kookroom \n \n'
+          'olijfolie, peper en zout \n \n'
+          'Om te serveren: geroosterde pijnboompitten, cherrytomaten en rucola \n \n',
       imageUrl:
           'https://www.eefkooktzo.nl/wp-content/uploads/2021/07/Pasta-pesto.jpg',
     ),
@@ -69,17 +63,15 @@ class GerechtenProvider with ChangeNotifier {
           '6. Vul de paprika\'s met het spinazie mengsel. \n \n'
           '7. Bak ze ongeveer 20 minuten in de oven en leg dan de plakjes mozzarella op de paprika\'s. Bak ze daarna nog 10 minuten. \n \n',
       bereidingstijd: '20 minuten',
-
       ingredienten: '2 paprika/s \n \n'
-    '100 gr feta \n \n'
-    '150 gr spinazie diepvries of vers \n \n'
-    '1 ei \n \n'
-    '2 tenen knoflook \n \n'
-    '2 tl oregano \n \n'
-    'handje geraspte kaas \n \n'
-    '1 bol mozzarella \n \n'
-    'zout en peper \n \n',
-
+          '100 gr feta \n \n'
+          '150 gr spinazie diepvries of vers \n \n'
+          '1 ei \n \n'
+          '2 tenen knoflook \n \n'
+          '2 tl oregano \n \n'
+          'handje geraspte kaas \n \n'
+          '1 bol mozzarella \n \n'
+          'zout en peper \n \n',
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2023/01/588A1873-1024x682.jpg.webp',
     ),
@@ -94,20 +86,18 @@ class GerechtenProvider with ChangeNotifier {
           '5. Roer de bloem door de melk en zorg dat de klontjes verdwenen zijn. \n \n'
           '6. Doe de groentebouillon en de melk erbij en breng aan de kook. Laat de soep 15-20 minuten zachtjes pruttelen totdat je een lekkere romige soep hebt. \n \n',
       bereidingstijd: '40 minuten',
-
       ingredienten: '500 gr champignons \n \n'
-    '500 ml groentebouillon \n \n'
-    '150 ml melk \n \n'
-    '100 ml witte wijn \n \n'
-    '2 uien \n \n'
-    '2 tenen knoflook \n \n'
-    '2 eetlepels bloem \n \n'
-    '2 eetlepels sojasaus \n \n'
-    '2 theelepels paprikapoeder \n \n'
-    '2 theelepels peterselie \n \n'
-    '2 theelepels tijm \n \n'
-    'snuf peper en zout \n \n',
-
+          '500 ml groentebouillon \n \n'
+          '150 ml melk \n \n'
+          '100 ml witte wijn \n \n'
+          '2 uien \n \n'
+          '2 tenen knoflook \n \n'
+          '2 eetlepels bloem \n \n'
+          '2 eetlepels sojasaus \n \n'
+          '2 theelepels paprikapoeder \n \n'
+          '2 theelepels peterselie \n \n'
+          '2 theelepels tijm \n \n'
+          'snuf peper en zout \n \n',
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2023/01/588A1441.jpg',
     ),
@@ -122,22 +112,20 @@ class GerechtenProvider with ChangeNotifier {
           '6. Klop de eieren en creme fraiche los samen met een snufje peper en zout. Giet het eimengsel over de vulling van de hartige taart. Voor de kaasliefhebbers onder ons: strooi gerust nog wat geraspte kaas over de bovenkant. \n \n'
           '7. Bak de quiche in 30-40 minuten mooi goudbruin. \n \n',
       bereidingstijd: '50 minuten',
-
       ingredienten: '5 plakjes bladerdeeg \n \n'
-    '300 gr kipfilet \n \n'
-    '2 eetlepels ketchup \n \n'
-    '3 eetlepes ketjap \n \n'
-    '1,5 eetlepels pindakaas \n \n'
-    '2 theelepes suiker \n \n'
-    '1 theelepel sambal \n \n'
-    '2 tenen knoflook \n \n'
-    '1 ui \n \n'
-    '1 paprika \n \n'
-    '1 courgette \n \n'
-    '4 eieren \n \n'
-    '2 eetlepels creme fraiche \n \n'
-    'zout en peper \n \n',
-
+          '300 gr kipfilet \n \n'
+          '2 eetlepels ketchup \n \n'
+          '3 eetlepes ketjap \n \n'
+          '1,5 eetlepels pindakaas \n \n'
+          '2 theelepes suiker \n \n'
+          '1 theelepel sambal \n \n'
+          '2 tenen knoflook \n \n'
+          '1 ui \n \n'
+          '1 paprika \n \n'
+          '1 courgette \n \n'
+          '4 eieren \n \n'
+          '2 eetlepels creme fraiche \n \n'
+          'zout en peper \n \n',
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2023/02/588A2566-768x1152.jpg.webp',
     ),
@@ -152,17 +140,15 @@ class GerechtenProvider with ChangeNotifier {
           '5. Voeg daarna de rookworst weer toe en meng alles door elkaar. \n \n'
           '6. Je kunt het gerecht zo serveren of je maakt er nog wat rijst, rosti of aardappelpuree bij. \n \n',
       bereidingstijd: '30 minuten',
-
       ingredienten: '1 rookworst \n \n'
-      '1 kleine witte kool circa 600 gr \n \n'
-      '2 paprika/s \n \n'
-      '1 ui \n \n'
-      '1 rode peper \n \n'
-      '1 eetlepel paprikapoeder \n \n'
-      '0,5 theelepel komijn \n \n'
-      '1 theelepel peterselie \n \n'
-      'snufje zout en peper \n \n',
-
+          '1 kleine witte kool circa 600 gr \n \n'
+          '2 paprika/s \n \n'
+          '1 ui \n \n'
+          '1 rode peper \n \n'
+          '1 eetlepel paprikapoeder \n \n'
+          '0,5 theelepel komijn \n \n'
+          '1 theelepel peterselie \n \n'
+          'snufje zout en peper \n \n',
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2022/12/588A9959-768x512.jpg.webp',
     ),
@@ -176,15 +162,13 @@ class GerechtenProvider with ChangeNotifier {
           '5. Meng in een schaaltje de creme fraiche en zure room door elkaar. Roer dan de tijm en wat zout en peper erdoor.  \n \n'
           '6. Smeer het bladerdeeg in met het creme fraiche mengsel. Schep dan de prei en champignons erop. Verdeel wat geitenkaas over de bovenkant en bak de plaattaart in circa 25-30 minuten mooi goudbruin.  \n \n',
       bereidingstijd: '40 minuten',
-
       ingredienten: '1 rol bladerdeeg \n \n'
-      '150 gr champignons \n \n'
-      '100 gr geitenkaas \n \n'
-      '3 eetlepels creme fraiche \n \n'
-      '1 eetlepel zure room \n \n'
-      '1,5 theelepel tijm \n \n'
-      'snuf peper en zout \n \n',
-
+          '150 gr champignons \n \n'
+          '100 gr geitenkaas \n \n'
+          '3 eetlepels creme fraiche \n \n'
+          '1 eetlepel zure room \n \n'
+          '1,5 theelepel tijm \n \n'
+          'snuf peper en zout \n \n',
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2023/01/588A1752.jpg',
     ),
@@ -200,9 +184,7 @@ class GerechtenProvider with ChangeNotifier {
           '6. Doe slagroom, knoflook, Italiaanse kruiden en zout en peper in de pan met de kip en laat zachtjes pruttelen totdat is ingedikt. Heb je toevallig nog wat kruidenroomkaas in de koelkast? Doe gerust een eetlepel erbij in de pan.\n \n \n'
           '7. Als de saus wat is ingedikt voeg je de orzo toe, even mengen en serveer met geraspte parmezaanse kaas.\n',
       bereidingstijd: '30 minuten',
-
       ingredienten: 'bvbjfsbkjnfjkdjjfkd',
-
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2023/02/588A2807.jpg.webp',
     ),
@@ -217,9 +199,7 @@ class GerechtenProvider with ChangeNotifier {
           '5. Giet de pasta af en voeg toe aan de pestoroomsaus met kip en schep dit goed om zodat alle pasta voorzien is van een laagje pesto saus. \n \n'
           '6. Serveer de pasta (naar smaak) met geroosterde pijnboompitten, cherrytomaatjes en rucola. Eet smakelijk!',
       bereidingstijd: '10 minuten',
-
       ingredienten: 'bvbjfsbkjnfjkdjjfkd',
-
       imageUrl:
           'https://www.eefkooktzo.nl/wp-content/uploads/2021/07/Pasta-pesto.jpg',
     ),
@@ -235,9 +215,7 @@ class GerechtenProvider with ChangeNotifier {
           '6. Vul de paprika\'s met het spinazie mengsel. \n \n'
           '7. Bak ze ongeveer 20 minuten in de oven en leg dan de plakjes mozzarella op de paprika\'s. Bak ze daarna nog 10 minuten. \n \n',
       bereidingstijd: '20 minuten',
-
       ingredienten: 'bvbjfsbkjnfjkdjjfkd',
-
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2023/01/588A1873-1024x682.jpg.webp',
     ),
@@ -252,9 +230,7 @@ class GerechtenProvider with ChangeNotifier {
           '5. Roer de bloem door de melk en zorg dat de klontjes verdwenen zijn. \n \n'
           '6. Doe de groentebouillon en de melk erbij en breng aan de kook. Laat de soep 15-20 minuten zachtjes pruttelen totdat je een lekkere romige soep hebt. \n \n',
       bereidingstijd: '40 minuten',
-
       ingredienten: 'bvbjfsbkjnfjkdjjfkd',
-
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2023/01/588A1441.jpg',
     ),
@@ -269,9 +245,7 @@ class GerechtenProvider with ChangeNotifier {
           '6. Klop de eieren en creme fraiche los samen met een snufje peper en zout. Giet het eimengsel over de vulling van de hartige taart. Voor de kaasliefhebbers onder ons: strooi gerust nog wat geraspte kaas over de bovenkant. \n \n'
           '7. Bak de quiche in 30-40 minuten mooi goudbruin. \n \n',
       bereidingstijd: '50 minuten',
-
       ingredienten: 'bvbjfsbkjnfjkdjjfkd',
-
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2023/02/588A2566-768x1152.jpg.webp',
     ),
@@ -286,9 +260,7 @@ class GerechtenProvider with ChangeNotifier {
           '5. Voeg daarna de rookworst weer toe en meng alles door elkaar. \n \n'
           '6. Je kunt het gerecht zo serveren of je maakt er nog wat rijst, rosti of aardappelpuree bij. \n \n',
       bereidingstijd: '30 minuten',
-
       ingredienten: 'bvbjfsbkjnfjkdjjfkd',
-
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2022/12/588A9959-768x512.jpg.webp',
     ),
@@ -302,9 +274,7 @@ class GerechtenProvider with ChangeNotifier {
           '5. Meng in een schaaltje de creme fraiche en zure room door elkaar. Roer dan de tijm en wat zout en peper erdoor.  \n \n'
           '6. Smeer het bladerdeeg in met het creme fraiche mengsel. Schep dan de prei en champignons erop. Verdeel wat geitenkaas over de bovenkant en bak de plaattaart in circa 25-30 minuten mooi goudbruin.  \n \n',
       bereidingstijd: '40 minuten',
-
       ingredienten: 'bvbjfsbkjnfjkdjjfkd',
-      
       imageUrl:
           'https://www.lekkerensimpel.com/wp-content/uploads/2023/01/588A1752.jpg',
     ),

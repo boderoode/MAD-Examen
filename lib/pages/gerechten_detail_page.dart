@@ -22,12 +22,13 @@ class GerechtDetailPage extends StatelessWidget {
         .findById(gerechtId);
 
     return Scaffold(
-        appBar: AppBar(
-          title: Text(loadedGerecht.title),
-        ),
-        body: Column(
+      appBar: AppBar(
+        title: Text(loadedGerecht.title),
+      ),
+      body: SingleChildScrollView(
+        child: Column(
           children: [
-             SizedBox(
+            SizedBox(
               height: 150,
               width: double.infinity,
               child: Image.network(
@@ -59,9 +60,15 @@ class GerechtDetailPage extends StatelessWidget {
                     arguments: gerechtId,
                   );
                 }),
+            Image.asset(
+              'assets/images/reclame-1.jpg',
+              width: 300,
+              height: 175,
+            )
           ],
         ),
-       bottomNavigationBar: GNav(gap: 10, backgroundColor: Colors.orange, tabs: [
+      ),
+      bottomNavigationBar: GNav(gap: 10, backgroundColor: Colors.orange, tabs: [
         GButton(
             icon: Icons.home,
             onPressed: () {
@@ -84,6 +91,6 @@ class GerechtDetailPage extends StatelessWidget {
           },
         )
       ]),
-        );
+    );
   }
 }

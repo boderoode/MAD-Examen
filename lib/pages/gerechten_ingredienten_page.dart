@@ -23,10 +23,11 @@ class GerechtenIngredientenPage extends StatelessWidget {
         .findById(gerechtId);
 
     return Scaffold(
-        appBar: AppBar(
-          title: Text(loadedGerecht.title),
-        ),
-        body: Column(
+      appBar: AppBar(
+        title: Text(loadedGerecht.title),
+      ),
+      body: SingleChildScrollView(
+        child: Column(
           children: [
             SizedBox(
               height: 225,
@@ -45,9 +46,15 @@ class GerechtenIngredientenPage extends StatelessWidget {
                 softWrap: true,
               ),
             ),
+            Image.asset(
+              'assets/images/reclame-2.jpg',
+              width: 300,
+              height: 175,
+            ),
           ],
         ),
-        bottomNavigationBar: GNav(gap: 10, backgroundColor: Colors.orange, tabs: [
+      ),
+      bottomNavigationBar: GNav(gap: 10, backgroundColor: Colors.orange, tabs: [
         GButton(
             icon: Icons.home,
             onPressed: () {
